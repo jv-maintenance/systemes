@@ -1,3 +1,3 @@
 ## Liste des systèmes
 
-- [Encaisseuse](http://github.com/jv-maintenance/systemes/systemes/encaisseuse.html)
+- [Encaisseuse](https://github.com/jv-maintenance/systemes/systemes/encaisseuse.html)
