@@ -2,4 +2,4 @@
 
 - [Encaisseuse](http://github.com/jv-maintenance/systemes/systemes/encaisseuse.html)
 
-- [Encaisseuse](http://github.com/jv-maintenance/systemes/systemes/encaisseuse.html)
+- [Ecolpap](http://github.com/jv-maintenance/systemes/systemes/ecolpap.html)
