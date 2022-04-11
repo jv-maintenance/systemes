@@ -3,3 +3,4 @@
 - [Encaisseuse](./systemes/encaisseuse.html)
 - [Ecolpap](./systemes/ecolpap.html)
 - [Ravoux](./systemes/ravoux.html)
+- [Extrudicc](./systemes/extrudicc.html)
