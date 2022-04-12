@@ -6,3 +6,4 @@
 - [Extrudicc](./systemes/extrudicc.html)
 - [Mainelec](./systemes/orthobloc_3433.html)
 - [Dechiqueticc](./systemes/dechiqueticc.html)
+- [Paletticc](./systemes/paletticc.html)
