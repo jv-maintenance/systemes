@@ -7,3 +7,4 @@
 - [Mainelec](./systemes/orthobloc_3433.html)
 - [Dechiqueticc](./systemes/dechiqueticc.html)
 - [Paletticc](./systemes/paletticc.html)
+- [Métal-Kit](./systemes/metal-kit.html)
