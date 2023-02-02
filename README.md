@@ -9,3 +9,4 @@
 - [Paletticc](./systemes/paletticc.html)
 - [Métal-Kit](./systemes/metal-kit.html)
 - [Plans Métal-Kit](./systemes/plan-metal-kit.html)
+- [Plans Métal-Kit PDF](./systemes/metal_kit_plans.pdf)
