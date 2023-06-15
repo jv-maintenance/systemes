@@ -10,3 +10,4 @@
 - [Métal-Kit](./systemes/metal-kit.html)
 - [Plans Métal-Kit](./systemes/plan-metal-kit.html)
 - [Plans Métal-Kit PDF](./systemes/metal_kit_plans.pdf)
+- [Cobot_UR](./systemes/COBOT_UR.html)
