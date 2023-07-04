@@ -12,5 +12,5 @@
 - [Liste de montage METAL KIT PDF](./systemes/liste_montage.pdf)
 - [Cobot_UR](./systemes/COBOT_UR.html)
 - [Radar Wurzburg](./systemes/Radar_WURZBURG.html)
-- [Vidéo montage Radar Wurzburg](<iframe width="560" height="315" src="https://www.youtube.com/embed/RNCxXBS7ieo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>)
+- [Vidéo montage Radar Wurzburg](https://youtu.be/RNCxXBS7ieo)
 - [JEEP](./systemes/jeep.html)
